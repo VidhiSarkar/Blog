@@ -1,5 +1,5 @@
 # Blog
-# Steps to Start the Project
+How to run the Project
 
 # npm install
 # npm start
